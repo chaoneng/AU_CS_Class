@@ -1,0 +1,53 @@
+p.one {
+    border-style: solid;
+    border-width: 2px;
+    /*margin: 50px 20px 20px 50px;*/
+    padding: 10px;
+}
+
+p.two {
+    border-style: dotted;
+    border-width: 2px;
+    padding: 10px;
+}
+
+p.three {
+    border-style: double;
+    border-width: thick;
+    padding: 10px;
+}
+
+p.four {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    padding: 10px;
+}
+
+p.all_sides {
+    border: 1px solid;
+    padding: 10px;
+}
+
+p.bottom_border {
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: red;
+    padding: 10px;
+}
+
+p.rounded_border {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+p.left_border_red {
+    border-left: 6px solid red;
+    padding: 10px;
+}
+
+p.left_border_blue {
+    border-left: 6px solid blue;
+    padding: 10px;
+}
